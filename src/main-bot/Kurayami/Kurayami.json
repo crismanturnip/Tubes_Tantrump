@@ -1,0 +1,11 @@
+{
+  "name": "Kurayami",
+  "version": "1.0",
+  "authors": ["Crisman Turnip", "Erhan Kurniawan"],
+  "description": "Competition template bot with radar lock, adaptive fire power, lateral movement, and simple target memory",
+  "homepage": "",
+  "gameTypes": ["classic", "melee", "1v1"],
+  "countryCodes": ["id"],
+  "platform": ".Net 9.0",
+  "programmingLang": "C# 10.0"
+}
