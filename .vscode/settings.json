@@ -1,0 +1,46 @@
+{
+    // Zoom seluruh UI
+    "window.zoomLevel": -0.3,
+
+    // Ukuran teks editor
+    "editor.fontSize": 14,
+
+    // Ukuran terminal
+    "terminal.integrated.fontSize": 14,
+
+    // Word wrap
+    "editor.wordWrap": "on",
+
+    // Minimap kecil di kanan
+    "editor.minimap.enabled": false,
+
+    // Simpan otomatis
+    "files.autoSave": "afterDelay",
+
+    // Format otomatis saat save
+    "editor.formatOnSave": true,
+
+    // Folder explorer lebih rapi
+    "explorer.compactFolders": false,
+
+    // Tema
+    "workbench.colorTheme": "Visual Studio 2019 Dark",
+
+    // Ukuran tab/spasi
+    "editor.tabSize": 4,
+
+    // Jangan preview tab
+    "workbench.editor.enablePreview": false,
+
+    // Scroll halus
+    "editor.smoothScrolling": true,
+
+    // Cursor smooth
+    "editor.cursorSmoothCaretAnimation": "on",
+
+    // Sidebar kiri
+    "workbench.sideBar.location": "left",
+
+    // Terminal di bawah
+    "workbench.panel.defaultLocation": "bottom"
+}
